@@ -1,5 +1,6 @@
 # BOT-DIGIPAY-AUTOMATIS
-Welcome to the Digipay Bot repository! This bot is designed to seamlessly integrate digital payment solutions,  Skrip otomatisasi (RPA) lokal berbasis Node.js dan Playwright untuk memproses pesanan di platform Digipay Satu Kemenkeu secara *Full-Auto*. Bot ini bertindak layaknya manusia 
+Welcome to the Digipay Bot repository! This bot is designed to seamlessly integrate digital payment solutions,  
+Skrip otomatisasi (RPA) lokal berbasis Node.js dan Playwright untuk memproses pesanan di platform Digipay Satu Kemenkeu secara *Full-Auto*. Bot ini bertindak layaknya manusia 
 ## ✨ Fitur Utama
 - **Auto-Login & Bypass CAPTCHA:** Terintegrasi dengan OCR (Tesseract.js + Jimp) untuk memecahkan CAPTCHA login DIGIT Kemenkeu secara otomatis.
 - **Pemulihan Sesi (Anti-RTO):** Otomatis me-*refresh* atau login ulang jika mendeteksi koneksi terputus atau *session timeout* ("Hubungi Administrator").
@@ -19,3 +20,5 @@ Karena ini adalah skrip desktop lokal, Anda hanya membutuhkan:
 3. Jalankan perintah berikut untuk menginstal semua pustaka yang dibutuhkan:
    ```bash
    npm install
+## Cara Menggunakan BOT
+1. Jalankan BOT, dengan file berektensi BAT
