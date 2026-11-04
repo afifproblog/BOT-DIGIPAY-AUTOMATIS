@@ -12,7 +12,7 @@ Welcome to the Digipay Bot repository! This bot is designed to seamlessly integr
 Karena ini adalah skrip desktop lokal, Anda hanya membutuhkan:
 1. Komputer/Laptop dengan OS Windows/Mac/Linux.
 2. [Node.js](https://nodejs.org/) terinstal (Versi 18 LTS atau terbaru).
-
+3. npm install jimp tesseract.js
 ## 🚀 Cara Instalasi
 1. Unduh atau *clone* repositori ini ke komputer Anda.
 2. Buka folder proyek, lalu klik kanan dan buka Terminal / Command Prompt (`Open in Terminal`).
