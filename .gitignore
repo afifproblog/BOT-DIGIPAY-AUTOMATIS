@@ -1,0 +1,13 @@
+# Mengabaikan folder pustaka NPM
+node_modules/
+package-lock.json
+
+# Mengabaikan sesi login browser dan cookies
+firefox_data/
+
+# Mengabaikan jejak media visual
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.log
