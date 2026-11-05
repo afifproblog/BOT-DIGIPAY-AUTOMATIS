@@ -1,7 +1,7 @@
 # 🤖 BOT-DIGIPAY-AUTOMATIS
 
 Skrip otomatisasi (RPA) lokal berbasis Node.js dan Playwright untuk memproses pesanan di platform Digipay Satu Kemenkeu secara *Full-Auto*. Bot ini bertindak layaknya manusia untuk menyelesaikan tahapan pesanan tanpa perlu intervensi manual setiap saat.
-<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/341ba4fc-41f9-4b99-aab9-7c0d538bfc40" />
+<img width="767" height="408" alt="image" src="https://github.com/user-attachments/assets/341ba4fc-41f9-4b99-aab9-7c0d538bfc40" />
 <img width="752" height="1002" alt="image" src="https://github.com/user-attachments/assets/d2912837-f8fa-4408-b08e-06fc43e4b739" />
 <img width="752" height="992" alt="image" src="https://github.com/user-attachments/assets/d6593c4a-a62c-40d1-bd7e-1556ba85488d" />
 
