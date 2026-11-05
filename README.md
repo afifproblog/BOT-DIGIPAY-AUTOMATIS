@@ -20,6 +20,8 @@ Karena bot ini berjalan di komputer Anda sendiri, pastikan Anda sudah menyiapkan
 3. **Node.js (Wajib):** Ini adalah mesin utama untuk menjalankan skrip. 
    - Unduh dan instal Node.js versi terbaru (LTS) dari [Situs Resmi Node.js](https://nodejs.org/). 
    - (NPM sudah otomatis terinstal saat Anda menginstal Node.js).
+   - npm install jimp tesseract.js
+
 4. **Teks Editor:** Seperti Notepad (bawaan Windows) atau [Visual Studio Code](https://code.visualstudio.com/) untuk mengedit file pengaturan.
 
 ---
