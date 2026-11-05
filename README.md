@@ -1,6 +1,7 @@
 # 🤖 BOT-DIGIPAY-AUTOMATIS
 
 Skrip otomatisasi (RPA) lokal berbasis Node.js dan Playwright untuk memproses pesanan di platform Digipay Satu Kemenkeu secara *Full-Auto*. Bot ini bertindak layaknya manusia untuk menyelesaikan tahapan pesanan tanpa perlu intervensi manual setiap saat.
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/341ba4fc-41f9-4b99-aab9-7c0d538bfc40" />
 
 ## ✨ Fitur Utama
 - **Auto-Login & Bypass CAPTCHA:** Terintegrasi dengan OCR (Tesseract.js + Jimp) untuk memecahkan CAPTCHA login DIGIT Kemenkeu secara otomatis.
